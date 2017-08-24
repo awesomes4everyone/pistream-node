@@ -1,0 +1,9 @@
+{
+  "channels":6,
+  "driver":"wext",
+  "hw_mode":"g",
+  "interface":"wlan0",
+  "ssid":"pistream",
+  "wpa":2,
+  "wpa_passphrase":"pistream"
+}
